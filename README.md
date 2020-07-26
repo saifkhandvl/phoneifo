@@ -41,25 +41,11 @@ PhoneInfoga is one of the most advanced tools to scan phone numbers using only f
 - Use custom formatting for more effective OSINT reconnaissance
 - Automatic footprinting on several custom formats
 
-![Footprinting process](https://i.imgur.com/qCkgzz8.png)
+![Footprinting process](https://i.im)
 
-## Subscribe our channel on youtube:
-https://www.youtube.com/ExpertAnonymousOfficial
+subscribe to our youtube channel https://www.youtube.com/playlist?list=PLEghjWPVFpfcYEFPnJVaXvwh1uSOkkDV6
+code and hack with saif
+facebook;code and hack with
 
-## 👥 ***Join***
-
-### Facebook page:
-https://www.facebook.com/ExpertAnonymous
-
-### Telegram Group:
-https://t.me/ExpertAnonymousOfficial
-
-### Instagram: 
-https://www.instagram.com/ExpertAnonymous
-
-### Twitter:
-https://www.twitter.com/ExpertAnonymoux
-
-### 📢 Warning
 
 ***This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.***
